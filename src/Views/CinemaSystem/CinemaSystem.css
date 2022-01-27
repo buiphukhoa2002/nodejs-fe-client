@@ -1,0 +1,10 @@
+.cinema_system {
+  transition: all 0.5s;
+  cursor: pointer;
+  border: 0.5px solid rgba(0, 0, 0, 0.1);
+  padding: 10px;
+}
+
+.cinema_system:hover {
+  background-color: blanchedalmond;
+}
